@@ -22,11 +22,9 @@ Uncover relationships between variables and find out which ones inflence the occ
 
 ● Are trains leaving Paris more often delayed/cancelled than trains going to Paris? Than trains going from province to province?
 
-● What are the train stations that received the most travelers in 2023 (including, and then excluding Paris) Are they the same as in 2015? 
+● What are the train stations that received the most travelers in 2023 (including, and then excluding Paris) Are they the same as in 2018? 
 
 ● What is the proportion of trains delayed over 60 minutes in each region? 
-
-● What was the impact of the 2020 pandemic on the French rail traffic?
 
 ## Data sets used
 ● [Information about delays and cancellations on each TGV line, 2018-2024](https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-aqst/information/?sort=date)
